@@ -1,2 +1,12 @@
 # corundum
-A simple Ruby collector for remmaping CSVs for output to Graphite
+
+# Synopsis:
+A simple stand alone Ruby collector for the Cloudera Manager API that sends output to Graphite.
+
+# TODO: 
+
+.....Many -so many things...
+
+
+
+
